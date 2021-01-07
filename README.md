@@ -2,6 +2,10 @@
 
 Application Mern Stack reviews football news and local and international match dates.
 
+## Languages and tools 
+
+Node.js | React.js | MongoDB | Express.js | (HTML & CSS) 
+
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
